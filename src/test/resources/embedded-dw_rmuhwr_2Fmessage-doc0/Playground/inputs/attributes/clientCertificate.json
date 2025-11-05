@@ -1,0 +1,73 @@
+{
+  "basicConstraints": 2,
+  "criticalExtensionOIDs": [
+    "faucibus",
+    "ipsum",
+    "venenatis"
+  ],
+  "extendedKeyUsage": [
+    "dolor",
+    "at",
+    "consectetur"
+  ],
+  "extensions": [
+    {
+      "criticality": true,
+      "oid": "pulvinar"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Adelle",
+      "type": 41
+    }
+  ],
+  "issuerDN": {
+    "commonName": "sodales",
+    "name": "Adell"
+  },
+  "issuerUniqueID": [
+    true,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Adella"
+  },
+  "keyUsage": [
+    false,
+    true,
+    false
+  ],
+  "name": "Alva",
+  "nonCriticalExtensionOIDs": [
+    "lorem",
+    "at"
+  ],
+  "publicKey": {
+    "algorithm": "elit",
+    "modulus": 91,
+    "params": 85,
+    "publicKey": "a"
+  },
+  "serialNumber": 99,
+  "serialNumberObject": {
+    "serialNumber": 72
+  },
+  "sigAlgName": "sed",
+  "sigAlgOID": "Nunc",
+  "subjectAlternativeNames": [
+    {
+      "name": "Alison",
+      "type": 32
+    }
+  ],
+  "subjectDN": {
+    "commonName": "a",
+    "name": "Alethea"
+  },
+  "subjectX500Principal": {
+    "name": "Calvin"
+  },
+  "type": "pretium",
+  "version": 28
+}
