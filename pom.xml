@@ -42,7 +42,7 @@
                             <generateDefaultPublicUrl>true</generateDefaultPublicUrl>
                         </deploymentSettings>
                     </cloudhub2Deployment>
-                <configuration/>
+                </configuration>
             </plugin>
         </plugins>
     </build>
